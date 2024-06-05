@@ -17,8 +17,7 @@ draft: false
 ---
 
 <a href="/blog/static-site-generators" target="_blank"> Static site generators </a> are getting more popular, but there's a catch: they don't have a built-in system for managing content. This makes it tricky for editors to update the website easily.
-But what if there was a way to combine the speed and security of static sites with a user-friendly editing experience? That's where Git-based headless CMS comes in. It's a new system that lets developers manage content with code, while editors can use a simple interface to update the website.
-This article will explore the top Git-based headless CMS options for static sites and how they can make content management a breeze for both developers and editors.
+
 ## Advantages of Git-Based Headless CMS
 
 - **Version Control:** Git-based headless CMS provides a robust version control system, allowing developers to track changes, collaborate, and roll back to previous versions if needed.
@@ -33,7 +32,7 @@ This article will explore the top Git-based headless CMS options for static site
 
 ## Top Git-Based Headless CMS Options
 
-### Tina CMS
+### undefined
 
 TinaCMS is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications.
 <Mockup src="/blog/tina-cms.png" alt="Tina headless cms" />
