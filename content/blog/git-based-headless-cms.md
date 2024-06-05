@@ -16,7 +16,7 @@ sponsored: false
 draft: false
 ---
 
-<a href="/blog/static-site-generators" target="_blank"> Static site generators </a> are getting more popular, but there's a catch: they don't have a built-in system for managing content. This makes it tricky for editors to update the website .
+<a href="/blog/static-site-generators" target="_blank"> Static site generators </a> are getting more popular, but there's a catch: they don't have a built-in system for managing content. This makes it tricky for  to update the website .
 ## Advantages of Git-Based Headless CMS
 
 - **Version Control:** Git-based headless CMS provides a robust version control system, allowing developers to track changes, collaborate, and roll back to previous versions if needed.
