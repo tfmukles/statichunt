@@ -12,8 +12,6 @@ ssg:
   - Nextjs
 css:
   - Tailwind
-cms:
-  - 
 category:
   - Saas
   - Dashboard
