@@ -6,6 +6,10 @@
   "content": {
     "root": "content"
   },
-  "themeConfig": [],
+  "themeConfig": [
+    "config/config.json",
+    "config/menu.json",
+    "config"
+  ],
   "arrangement": {}
 }
