@@ -11,5 +11,13 @@
     "config/menu.json",
     "config"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/blog": {
+      "Blogs": {
+        "weight": 0,
+        "include": "*.md, *.mdx",
+        "exclude": "!index.md"
+      }
+    }
+  }
 }
