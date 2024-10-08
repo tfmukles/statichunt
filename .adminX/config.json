@@ -11,17 +11,5 @@
     "config/menu.json",
     "config"
   ],
-  "arrangement": {
-    "Test Heading 1": {
-      "type": "heading",
-      "weight": 0
-    },
-    "content/blog": {
-      "Mukles": {
-        "weight": 1,
-        "include": "*.md, *.mdx",
-        "exclude": "*index.md"
-      }
-    }
-  }
+  "arrangement": {}
 }
