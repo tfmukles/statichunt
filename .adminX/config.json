@@ -20,7 +20,7 @@
       "Mukles": {
         "weight": 1,
         "include": "*.md, *.mdx",
-        "exclude": "index.md"
+        "exclude": "*index.md"
       }
     }
   }
