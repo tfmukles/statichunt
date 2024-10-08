@@ -22,6 +22,11 @@
         "include": "*.md, *.mdx",
         "exclude": "!index.md"
       }
+    },
+    "content/themes/astro-blog-astro.md": {
+      "Mukles": {
+        "weight": 2
+      }
     }
   }
 }
