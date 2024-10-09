@@ -12,9 +12,8 @@ authors:
 categories:
   - static site generators
 sponsored: false
-draft: false
+draft: true
 ---
-
 In the world of website development, static site generators have gained immense popularity in recent years. With their easy setup and low maintenance, they have become a favorite among developers and website owners alike. But with so many options out there, it can be hard to choose the best one for your needs.
 
 In this article, we will take a comprehensive look at the best static site generators and help you make an informed decision.
@@ -27,11 +26,11 @@ Static site generators are tools that allow you to create websites without relyi
 
 There are several advantages to using static site generators for web development, including:
 
-- **Speed**: Static sites are pre-generated, which means they can be served quickly to users without the need for server-side processing.
-- **Security**: Because there is no server-side processing or database access required, static sites are less vulnerable to security threats like SQL injection attacks.
-- **Scalability**: Static sites can be easily deployed to a content delivery network (CDN), which allows them to be served from multiple locations, improving performance and reliability.
-- **Ease of Use**: Static site generators typically use templates and Markdown files to generate pages, making it easy to create and manage content.
-- **SEO Benefits**: Static sites tend to perform better in search engine rankings because they are fast, lightweight, and easy to crawl.
+* **Speed**: Static sites are pre-generated, which means they can be served quickly to users without the need for server-side processing.
+* **Security**: Because there is no server-side processing or database access required, static sites are less vulnerable to security threats like SQL injection attacks.
+* **Scalability**: Static sites can be easily deployed to a content delivery network (CDN), which allows them to be served from multiple locations, improving performance and reliability.
+* **Ease of Use**: Static site generators typically use templates and Markdown files to generate pages, making it easy to create and manage content.
+* **SEO Benefits**: Static sites tend to perform better in search engine rankings because they are fast, lightweight, and easy to crawl.
 
 ## 7 Best Static Site Generators 2023
 
@@ -41,7 +40,7 @@ Astro is an all-in-one static site generator that is gaining popularity among we
 
 <Mockup src="/blog/astro.png" alt="astro ssg" />
 
-<Button href="https://astro.build/" >Visit Website </Button>
+<Button href="https://astro.build/">Visit Website </Button>
 
 ### 2. Hugo
 
@@ -49,7 +48,7 @@ Hugo is a powerful static site generator built with Go. It is known for its spee
 
 <Mockup src="/blog/hugo.png" alt="hugo ssg" />
 
-<Button href="https://gohugo.io/" >Visit Website </Button>
+<Button href="https://gohugo.io/">Visit Website </Button>
 
 ### 3. NextJs
 
@@ -57,7 +56,7 @@ Nextjs is a popular static site generator built on top of React. It provides an 
 
 <Mockup src="/blog/nextjs.png" alt="nextjs ssg" />
 
-<Button href="https://nextjs.org/" >Visit Website </Button>
+<Button href="https://nextjs.org/">Visit Website </Button>
 
 ### 4. Gatsby
 
@@ -65,7 +64,7 @@ Gatsby is a React-based static site generator that is great for building high-pe
 
 <Mockup src="/blog/gatsby.webp" alt="gatsby ssg" />
 
-<Button href="https://www.gatsbyjs.com/" >Visit Website </Button>
+<Button href="https://www.gatsbyjs.com/">Visit Website </Button>
 
 ### 5. Jekyll
 
@@ -73,7 +72,7 @@ Jekyll is one of the most popular static site generators. It is written in Ruby 
 
 <Mockup src="/blog/jekyll.webp" alt="jekyll ssg" />
 
-<Button href="https://jekyllrb.com/" >Visit Website </Button>
+<Button href="https://jekyllrb.com/">Visit Website </Button>
 
 ### 5. Eleventy
 
@@ -81,7 +80,7 @@ Eleventy is a simple and flexible static site generator written in JavaScript. I
 
 <Mockup src="/blog/11ty.png" alt="11ty ssg" />
 
-<Button href="https://www.11ty.dev/" >Visit Website </Button>
+<Button href="https://www.11ty.dev/">Visit Website </Button>
 
 ### 6. Sveltekit
 
@@ -89,7 +88,7 @@ Sveltekit is a static site generator built on top of the Svelte framework. It pr
 
 <Mockup src="/blog/sveltekit.png" alt="sveltekit ssg" />
 
-<Button href="https://kit.svelte.dev/" >Visit Website </Button>
+<Button href="https://kit.svelte.dev/">Visit Website </Button>
 
 ### 7. Nuxt
 
@@ -97,7 +96,7 @@ Nuxt is a Vue-based static site generator that offers server-side rendering and 
 
 <Mockup src="/blog/nuxt.png" alt="nuxt ssg" />
 
-<Button href="https://nuxt.com/" >Visit Website </Button>
+<Button href="https://nuxt.com/">Visit Website </Button>
 
 ## Conclusion
 
