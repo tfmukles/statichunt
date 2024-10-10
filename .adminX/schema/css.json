@@ -1,0 +1,56 @@
+{
+  "file": "content/css/bootstrap.md",
+  "name": "css",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Page Title",
+      "name": "page_title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Meta Title",
+      "name": "meta_title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Icon",
+      "name": "icon",
+      "type": "media",
+      "value": ""
+    },
+    {
+      "label": "Website",
+      "name": "website",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Url",
+      "name": "url",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Weight",
+      "name": "weight",
+      "type": "number",
+      "value": 0
+    }
+  ]
+}
