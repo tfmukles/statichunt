@@ -5,7 +5,7 @@ meta_title: ''
 description: >-
   Discover the top boilerplates for static site generators. Kickstart your
   projects and save time with preconfigured templates.
-image: /blog/boilerplates-for-static-site-generators.png
+image: /images/icons/middleman.svg
 authors:
   - Statichunt
 categories:
