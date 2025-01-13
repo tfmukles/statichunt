@@ -1,10 +1,10 @@
 ---
-title: Femprish
+title: Femprish asdfa sdf
 github: https://github.com/ArnavK-09/femprish
 demo: https://femprishorg.netlify.app/
 author: ArnavK-09
 author_link: https://github.com/ArnavK-09
-date: 2023-11-26T09:38:34.686Z
+date: '2023-11-26T09:38:34.686Z'
 description: Feminist Organization Minimal Website Template ~ Pink Theme
 ssg:
   - Astro
