@@ -1,5 +1,5 @@
 ---
-title: "Authors"
-meta_title: ""
-description: ""
+title: Authors
+meta_title: Meta title
+description: Description
 ---
