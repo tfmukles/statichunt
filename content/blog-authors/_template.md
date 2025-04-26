@@ -1,5 +1,5 @@
 ---
-title: Author Name
+title: Author Name asdfa
 email: user@mail.com
 description: this is meta description
 social:
@@ -7,5 +7,4 @@ social:
   twitter: https://www.twitter.com/
   instagram: https://www.instagram.com/
 ---
-
 Author bio
