@@ -1,6 +1,6 @@
 ---
 title: Author Name asdfa
-email: user@mail.com
+email: user@mail.com asda f
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
