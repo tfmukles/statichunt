@@ -7,7 +7,7 @@
     {
       "label": "Title",
       "name": "title",
-      "type": "media",
+      "type": "string",
       "value": ""
     },
     {
