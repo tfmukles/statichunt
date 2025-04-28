@@ -1,0 +1,67 @@
+{
+  "file": "content/bundles/gethugothemes-hugo-bundle.md",
+  "name": "bundles",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Image",
+      "name": "image",
+      "type": "media",
+      "value": ""
+    },
+    {
+      "label": "Author",
+      "name": "author",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Author Link",
+      "name": "author_link",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Date",
+      "name": "date",
+      "type": "Date",
+      "value": ""
+    },
+    {
+      "label": "Price",
+      "name": "price",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Regular Price",
+      "name": "regular_price",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Purchase Link",
+      "name": "purchase_link",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Features",
+      "name": "features",
+      "type": "Array"
+    }
+  ]
+}
