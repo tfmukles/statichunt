@@ -9,12 +9,13 @@ description: >-
 image: /blog/headless-cms.png
 authors:
   - Statichunt
+  - Statichunt
 categories:
   - static site Generators
   - headless cms
   - Headless cms
 sponsored: false
-draft: false
+draft: true
 ---
 <a href="/blog/static-site-generators" target="_blank"> Static site generators </a> are getting more popular, but there's a catch: they don't have a built-in system for managing content. This makes it tricky for editors to update the website easily.
 
