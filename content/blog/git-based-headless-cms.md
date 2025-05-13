@@ -10,7 +10,7 @@ image: /blog/headless-cms.png
 authors:
   - Statichunt
 categories:
-  - static site generators
+  - static site Generators
   - headless cms
   - Headless cms
 sponsored: false
