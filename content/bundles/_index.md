@@ -1,5 +1,5 @@
 ---
-title: Composable Themes Bundles
+title: Composable Themes Bundles.
 meta_title: Composable Themes Bundles
 description: Get the best deal on premium themes. Save up to 70% on bundles
 image: /images/cookie.png
