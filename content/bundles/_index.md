@@ -6,6 +6,9 @@ image: /images/cookie.png
 draft: true
 author: https://google.com
 author_link: https://google.com
+price: '10'
+regular_price: '123'
+purchase_link: https://link.ocm
 ---
 Supercharge your web development workflow with handpicked Jamstack theme bundles! Get your favorite one and build stunning websites faster.
 
