@@ -10,4 +10,4 @@ draft: false
 ---
 Author bio.
 
-Author bio....
+Author bio.
