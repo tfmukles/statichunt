@@ -1,11 +1,11 @@
 ---
 title: newf file
 date: ''
-meta_title: ''
+meta_title: Meta Title
 description: ''
 image: ''
 authors: []
 categories: []
 sponsored: true
-draft: true
+draft: false
 ---
