@@ -1,7 +1,7 @@
 ---
 title: Themefisher Astro Bundle
-image: /images/icons/airtable.svg
-author: fadjalafsdf safsf
+image: /images/icons/chakra.svg
+author: Mukles
 author_link: https://themefisher.com/fresher
 description: this description
 date: '2024-08-28T00:00:00.000Z'
