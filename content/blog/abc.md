@@ -1,8 +1,8 @@
 ---
 title: Mukles
-date: ''
+date: '2025-05-08T06:33:00.000Z'
 meta_title: ''
-description: ''
+description: This is description.
 image: ''
 authors: []
 categories: []
