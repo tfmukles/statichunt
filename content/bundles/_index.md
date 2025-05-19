@@ -4,6 +4,8 @@ meta_title: Composable Themes Bundles
 description: Get the best deal on premium themes. Save up to 70% on bundles
 image: /images/cookie.png
 draft: true
+author: https://google.com
+author_link: https://google.com
 ---
 Supercharge your web development workflow with handpicked Jamstack theme bundles! Get your favorite one and build stunning websites faster.
 
