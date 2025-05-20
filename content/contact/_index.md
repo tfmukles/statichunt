@@ -1,6 +1,6 @@
 ---
 title: Get In Touch
-meta_title: fsadfdas
+meta_title: This is meta title
 description: fsadfa
 success_message: We have received your message and will get back to you soon
 ---
