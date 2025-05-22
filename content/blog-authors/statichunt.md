@@ -1,8 +1,8 @@
 ---
 title: Statichunt
 email: hey.statichunt@gmail.com
-description: ""
+description: ''
 social:
-  twitter: https://twitter.com/heyStatichunt
+  twitter: https://twitter.com/
   github: https://github.com/statichunt/
 ---
