@@ -9,5 +9,5 @@ category:
   - cms3
   - cms4
   - cms5
-draft: true
+draft: false
 ---
