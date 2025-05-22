@@ -20,3 +20,7 @@ fadfa
 
 * list
 * **list** 2
+
+<!---->
+
+* **Open Code:** Modify every aspect of the component code. No more fighting with vendor styles. If you need a change, edit the code directly.
